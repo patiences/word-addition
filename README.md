@@ -1,5 +1,5 @@
 # word-addition
-Solve the famous `SEND MORE MONEY equation` and other cryptarithmetic puzzles.
+Solve the famous `SEND MORE MONEY` equation and other cryptarithmetic puzzles.
 
 This program is written in Dr Racket, [click me](http://download.racket-lang.org) to install the latest version. 
 You must be using **Intermediate Student with lambda** or **Advanced Student** to run the program. 
